@@ -39,3 +39,25 @@ As principais tecnologias utilizadas para a implementação do aplicativo Lotus 
 - [.NET](https://dotnet.microsoft.com/pt-br/)
 - [Expo](https://expo.dev/)
 
+### Login
+![Fluxo de login](resources\images\Fluxos\login.png)
+
+### Cadastro
+![Fluxo de cadastro](resources\images\Fluxos\cadastro.png)
+
+### Agendamento em estabelecimentos 
+![Fluxo de agendamento em estabelecimentos](resources\images\Fluxos\agendamento_estabelecimento.png)
+
+### Agendamento na modalidade delivery de serviços
+![Fluxo de agendamento na modalidade delivery de serviços](resources\images\Fluxos\agendamento_delivery.png)
+
+![Alteração de endereço no fluxo de agendamento](resources\images\Fluxos\alterar_endereco.png)
+
+### Visualização de agendamentos
+![Fluxo de visualização de agendamentos](resources\images\Fluxos\visualizar_agendamento.png)
+
+### Cancelar agendamento
+![Fluxo de cancelamento de agendamento](resources\images\Fluxos\cancelar.png)
+
+### Avaliar agendamento
+![Fluxo de avaliação de agendamento](resources\images\Fluxos\avaliacao.png)
