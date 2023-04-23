@@ -61,3 +61,7 @@ As principais tecnologias utilizadas para a implementação do aplicativo Lotus 
 
 ### Avaliar agendamento
 ![Fluxo de avaliação de agendamento](resources\images\Fluxos\avaliacao.png)
+
+## 2. Pesquisa de mercado
+### Formulário aplicado aos usuários finais
+![Gênero dos participante](resources\images\Fluxos\avaliacao.png)
