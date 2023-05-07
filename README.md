@@ -88,3 +88,20 @@ As principais tecnologias utilizadas para a implementação do aplicativo Lotus 
 
 #### Utilização de aplicativos de estética e/ou bem-estar
 ![Utilizacao de aplicativos](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\utilizacao_aplicativo.png)
+![Interesse em usar aplicativos - domicilio](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\interesse.png)
+![Interesse em usar aplicativos - estabelecimentos](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\interesse02.png)
+
+#### Serviços da área da saúde
+![Atendimento em domicílio](resources\images\Pesquisa_de_Mercado\Usuários\Saúde\saude_domicilio.png)
+
+#### Influências na escolha do serviço de saúde
+![Preco](resources\images\Pesquisa_de_Mercado\Usuários\Saúde\preco.png)
+![Qualidade](resources\images\Pesquisa_de_Mercado\Usuários\Saúde\qualidade.png)
+![Confiabilidade](resources\images\Pesquisa_de_Mercado\Usuários\Saúde\confiabilidade.png)
+![Tempo de experiência](resources\images\Pesquisa_de_Mercado\Usuários\Saúde\experiencia.png)
+![Indicacao interpessoal](resources\images\Pesquisa_de_Mercado\Usuários\Saúde\indicacao.png)
+![Portfolio](resources\images\Pesquisa_de_Mercado\Usuários\Saúde\portfolio.png)
+
+#### Utilização de aplicativos de serviços de saúde
+![Utilizacao de aplicativos](resources\images\Pesquisa_de_Mercado\Usuários\Saúde\utilizacao_aplicativo.png)
+![Funiconalidades importantes](resources\images\Pesquisa_de_Mercado\Usuários\Saúde\funcionalidades_importantes.png)
