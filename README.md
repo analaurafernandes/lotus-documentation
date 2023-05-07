@@ -63,7 +63,7 @@ As principais tecnologias utilizadas para a implementação do aplicativo Lotus 
 ![Fluxo de avaliação de agendamento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Fluxos/avaliacao.png?raw=true)
 
 ## 2. Pesquisa de mercado
-### Formulário aplicado aos usuários finais
+### 2.1 Formulário aplicado aos usuários finais
 ![Gênero dos participante](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Usuários/Estetica_e_bem-estar/genero.png?raw=true)
 ![Cidades dos participante](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Usuários/Estetica_e_bem-estar/cidades.png?raw=true)
 ![Unidade federativa dos participante](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Usuários/Estetica_e_bem-estar/uf.png?raw=true)
@@ -105,3 +105,6 @@ As principais tecnologias utilizadas para a implementação do aplicativo Lotus 
 #### Utilização de aplicativos de serviços de saúde
 ![Utilizacao de aplicativos](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Usuários/Saúde/utilizacao_aplicativo.png?raw=true)
 ![Funiconalidades importantes](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Usuários/Saúde/funcionalidades_importantes.png?raw=true)
+
+
+### 2.2 Formulário aplicado aos profissionais de saúde
