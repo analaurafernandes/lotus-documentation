@@ -108,3 +108,31 @@ As principais tecnologias utilizadas para a implementação do aplicativo Lotus 
 
 
 ### 2.2 Formulário aplicado aos profissionais de saúde
+![Genero](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/genero.png?raw=true)
+![Cidades](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/cidades.png?raw=true)
+![UF](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/uf.png?raw=true)
+![Idade](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/idade.png?raw=true)
+![Profissao](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/profissao.png?raw=true)
+![Nível de formação](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/formacao.png?raw=true)
+![Tempo de atuação no mercado de saúde](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/tempo_atuacao.png?raw=true)
+![Modalidades de atendimento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/modalidades.png?raw=true)
+![Pacientes prospectados por marketing digital](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/pacientes_prospectados.png?raw=true)
+![Pacientes prospectados por indicação interpessoal](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/pacientes_indicacao.png?raw=true)
+![Pacientes prospectados por indicação interpessoal](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/pacientes_indicacao.png?raw=true)
+![Utilização de aplicativos para prospectar pacientes](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/uso_aplicativo.png?raw=true)
+![Features importantes](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_saúde/features_importantes.png?raw=true)
+
+
+### 2.2 Formulário aplicado aos profissionais de estética e bem-estar
+![Genero](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_estética_e_bem_estar/genero.PNG?raw=true)
+![Cidades](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_estética_e_bem_estar/cidades.png?raw=true)
+![UF](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/uf.png?raw=true)
+![Nível de formação](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/formacao.png?raw=true)
+![Tempo de atuação no mercado de estética e bem-estar](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/tempo_atuacao.png?raw=true)
+![Atendimento em domicílio](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/atendimento_domicilio.PNG?raw=true)
+![Modalidades de atendimento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/modalidade_trabalho.png?raw=true)
+![Modalidades de atendimento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/tecnologias_utilizadas.png?raw=true)
+![Clientes prospectados por marketing digital](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/prospeccao_marketing.png?raw=true)
+![Clientes prospectados por indicação interpessoal](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/prospeccao_indicacao.png?raw=true)
+![Utilização de aplicativos para prospectar clientes](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/utilizacao_aplicativo.png?raw=true)
+![Features importantes](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/features_importantes.png?raw=true)
