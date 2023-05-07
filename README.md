@@ -40,7 +40,7 @@ As principais tecnologias utilizadas para a implementação do aplicativo Lotus 
 - [Expo](https://expo.dev/)
 
 ### Login
-![Fluxo de login](resources\images\Fluxos\login.png)
+![Fluxo de login](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Fluxos/login.png?raw=true)
 
 ### Cadastro
 ![Fluxo de cadastro](resources\images\Fluxos\cadastro.png)
