@@ -64,4 +64,27 @@ As principais tecnologias utilizadas para a implementação do aplicativo Lotus 
 
 ## 2. Pesquisa de mercado
 ### Formulário aplicado aos usuários finais
-![Gênero dos participante](resources\images\Fluxos\avaliacao.png)
+![Gênero dos participante](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\genero.png)
+![Cidades dos participante](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\cidades.png)
+![Unidade federativa dos participante](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\uf.png)
+![Idade dos participante](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\idade.png)
+
+#### Serviços de estética e bem-estar
+![Utiliza servicos](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\utiliza_servicos.png)
+![Frequencia de utilizacao](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\frequencia_utilizacao.png)
+![Servicos utilizados](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\servicos_utilizados.png)
+![Atendimento domiciliar](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\atendimento_domiciliar.png)
+
+#### Influências na escolha do serviço de estética/bem-estar
+![Preco](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\preco.png)
+![Qualidade](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\qualidade.png)
+![Confiabilidade](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\confiabilidade.png)
+![Indicação interpessoal](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\indicacao.png)
+![Portfolio](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\portfolio.png)
+![Higiene](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\higiene.png)
+![Tempo](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\tempo.png)
+![Tempo de experiencia do profissional](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\experiencia.png)
+
+
+#### Utilização de aplicativos de estética e/ou bem-estar
+![Utilizacao de aplicativos](resources\images\Pesquisa_de_Mercado\Usuários\Estetica_e_bem-estar\utilizacao_aplicativo.png)
