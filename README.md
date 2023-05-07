@@ -124,8 +124,8 @@ As principais tecnologias utilizadas para a implementação do aplicativo Lotus 
 
 
 ### 2.2 Formulário aplicado aos profissionais de estética e bem-estar
-![Genero](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_estética_e_bem_estar/genero.PNG?raw=true)
-![Cidades](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_estética_e_bem_estar/cidades.png?raw=true)
+![Genero](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_estética_e_bem_estar/genero.png?raw=true)
+![Cidades](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_de_estética_e_bem_estar/cidade.png?raw=true)
 ![UF](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/uf.png?raw=true)
 ![Nível de formação](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/formacao.png?raw=true)
 ![Tempo de atuação no mercado de estética e bem-estar](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/tempo_atuacao.png?raw=true)
