@@ -154,8 +154,8 @@ Abaixo serão mostradas as tarefas solicitadas aos usuários e os seus resultado
 3) Imagine que você deseja visualizar os seus atendimentos marcados. Poderia me mostrar como você faria para visualizá-los no aplicativo?
 
 ![Visualizar agendamento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/visualizar_agendamento.PNG?raw=true)
-![Análise - Visualizar agendamento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/analise_visualizar_agendamento.PNG?raw=true)
-![Report - Visualizar agendamento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/report_visualizar_agendamento.PNG?raw=true)
+![Análise - Visualizar agendamento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/visualizar_agendamentos.PNG?raw=true)
+![Report - Visualizar agendamento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/report_visualizar_agendamentos.PNG?raw=true)
 
 Questões objetivas:
 ![Interface agradável visualmente](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/interface_agradavel.PNG?raw=true)
