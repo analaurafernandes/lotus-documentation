@@ -136,3 +136,31 @@ As principais tecnologias utilizadas para a implementação do aplicativo Lotus 
 ![Clientes prospectados por indicação interpessoal](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/prospeccao_indicacao.png?raw=true)
 ![Utilização de aplicativos para prospectar clientes](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/utilizacao_aplicativo.png?raw=true)
 ![Features importantes](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Pesquisa_de_Mercado/Profissionais_estética_e_bem_estar/features_importantes.png?raw=true)
+
+
+## 3. Teste de usabilidade
+Abaixo serão mostradas as tarefas solicitadas aos usuários e os seus resultados.
+
+1) Imagine que você deseja realizar um agendamento em um estabelecimento parceiro da plataforma. Poderia me mostrar como você faria para realizar este agendamento no aplicativo?
+
+![Agendamento em estabelecimentos](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/agendamento_estabelecimento.PNG?raw=true)
+![Análise - Agendamento em estabelecimentos](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/analise_agendamento_estabelecimento.PNG?raw=true)
+
+2) Imagine que você deseja agendar um de serviço de manicure em que o profissional te atenda no endereço que você desejar. Poderia me mostrar como você faria para realizar este agendamento no aplicativo?
+
+![Agendamento personalizado](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/agendamento_personalizado.PNG?raw=true)
+![Análise - Agendamento personalizado](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/analise_agendamento_personalizado.PNG?raw=true)
+
+3) Imagine que você deseja visualizar os seus atendimentos marcados. Poderia me mostrar como você faria para visualizá-los no aplicativo?
+
+![Visualizar agendamento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/visualizar_agendamento.PNG?raw=true)
+![Análise - Visualizar agendamento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/analise_visualizar_agendamento.PNG?raw=true)
+![Report - Visualizar agendamento](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/report_visualizar_agendamento.PNG?raw=true)
+
+Questões objetivas:
+![Interface agradável visualmente](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/interface_agradavel.PNG?raw=true)
+![Dificuldade para realizar tarefas](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/dificuldade_reaizar_tarefas.PNG?raw=true)
+![Navegação do aplicativo](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/navegacao.PNG?raw=true)
+![Funcionalidades](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/necessidades.PNG?raw=true)
+![Proposta do aplicativo](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/proposta_aplicativo.PNG?raw=true)
+![Utilizaria o aplicativo](https://github.com/analaurafernandes/lotus-documentation/blob/main/resources/images/Usabilidade/utilizaria_aplicativo.PNG?raw=true)
